@@ -1,0 +1,7 @@
+apiVersion: wse.com/v1
+kind: Stack
+metadata:
+  name: my-stack
+spec:
+  name: foo
+  template: bla bla bla
